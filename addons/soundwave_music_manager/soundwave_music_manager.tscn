@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://dm14xfb5jy047"]
+
+[ext_resource type="Script" uid="uid://cmf55olxs4fs0" path="res://addons/soundwave_music_manager/music-manager.gd" id="1_cok0y"]
+
+[node name="SoundwaveMusicManager" type="AudioStreamPlayer2D" unique_id=1751678716]
+script = ExtResource("1_cok0y")

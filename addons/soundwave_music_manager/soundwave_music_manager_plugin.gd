@@ -1,0 +1,20 @@
+@tool
+extends EditorPlugin
+
+
+func _enable_plugin() -> void:
+	add_autoload_singleton("soundwave music manager", "addons/soundwave_music_manager/soundwave_music_manager.tscn")
+
+
+func _disable_plugin() -> void:
+	remove_autoload_singleton("soundwave music manager")
+
+
+func _enter_tree() -> void:
+	# Initialization of the plugin goes here.
+	pass
+
+
+func _exit_tree() -> void:
+	# Clean-up of the plugin goes here.
+	pass
