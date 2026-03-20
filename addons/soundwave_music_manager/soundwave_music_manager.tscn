@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://dm14xfb5jy047"]
 
-[ext_resource type="Script" uid="uid://de2cmgpc2p1l6" path="res://addons/soundwave_music_manager/soundwave_music-manager.gd" id="1_cok0y"]
+[ext_resource type="Script" uid="uid://de2cmgpc2p1l6" path="res://addons/soundwave_music_manager/soundwave_music_manager.gd" id="1_cok0y"]
 [ext_resource type="AudioStream" uid="uid://g3xb46bupb7c" path="res://test/playlists/playlist1.tres" id="2_qkfuj"]
 [ext_resource type="AudioStream" uid="uid://dujs74n5o1rnu" path="res://test/playlists/playlist2.tres" id="3_kimou"]
 [ext_resource type="AudioStream" uid="uid://3hj3rbhl4q05" path="res://test/playlists/playlist3.tres" id="4_ahncu"]

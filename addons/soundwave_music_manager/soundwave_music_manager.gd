@@ -1,4 +1,6 @@
+@icon("res://addons/soundwave_music_manager/soundwaveMusic.png")
 extends AudioStreamPlayer2D
+
 
 @export_category("playlists")
 @export var playlists: Dictionary[String, AudioStreamPlaylist]
