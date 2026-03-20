@@ -59,6 +59,8 @@ metadata/_custom_type_script = "uid://pq8b7qgua5ye"
 [node name="SoundwaveSfx3D" type="Node3D" parent="." unique_id=1431037555]
 script = ExtResource("3_spul4")
 
+[node name="AudioStreamPlayer3D" type="AudioStreamPlayer3D" parent="." unique_id=1167454542]
+
 [connection signal="pressed" from="playlist1" to="." method="_on_playlist_1_pressed"]
 [connection signal="pressed" from="playlist2" to="." method="_on_playlist_2_pressed"]
 [connection signal="pressed" from="playlist3" to="." method="_on_playlist_3_pressed"]

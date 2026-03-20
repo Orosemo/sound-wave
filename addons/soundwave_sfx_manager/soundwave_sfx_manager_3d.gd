@@ -1,3 +1,4 @@
+@icon("res://addons/soundwave_sfx_manager/soundwave3d.png")
 extends Node3D
 class_name  SoundwaveSfx3D
 

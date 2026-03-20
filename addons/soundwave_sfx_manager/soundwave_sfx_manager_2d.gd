@@ -1,5 +1,7 @@
+@icon("res://addons/soundwave_sfx_manager/soundwave2d.png")
 extends Node2D
 class_name  SoundwaveSfx2D
+
 
 @export var sfx: Dictionary[String, AudioStream]
 
