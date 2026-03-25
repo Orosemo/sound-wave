@@ -5,7 +5,7 @@ extends AudioStreamPlayer2D
 @export_category("playlists")
 @export var playlists: Dictionary[String, AudioStreamPlaylist]
 @export var play_on_load: AudioStreamPlaylist
-@export var fade_duration: float
+@export var fade_duration: float = 0.5
 @export_enum("EASE_IN", "EASE_OUT", "EASE_IN_OUT", "EASE_OUT_IN") var fade_mode: int
 
 var current_playlist: AudioStreamPlaylist

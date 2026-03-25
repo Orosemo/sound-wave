@@ -26,9 +26,7 @@ enabled=PackedStringArray("res://addons/soundwave_music_manager/plugin.cfg", "re
 [file_customization]
 
 folder_colors={
-"res://addons/": "red",
-"res://test/": "green",
-"res://test/playlists/": "blue"
+"res://addons/": "red"
 }
 
 [input]
