@@ -5,7 +5,7 @@ class_name  SoundwaveSfx2D
 
 @export var sfx: Dictionary[String, AudioStream]
 
-func play_song(sfx_name):
+func play_sfx(sfx_name):
     if sfx[sfx_name]:
         var audio_player = AudioStreamPlayer2D.new()
         add_child(audio_player)

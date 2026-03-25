@@ -4,7 +4,7 @@ class_name  SoundwaveSfx3D
 
 @export var sfx: Dictionary[String, AudioStream]
 
-func play_song(sfx_name, max_distance = 0.0, max_polyphony = 1, panning_strengh = 1.0):
+func play_sfx(sfx_name, max_distance = 0.0, max_polyphony = 1, panning_strengh = 1.0):
     if sfx[sfx_name]:
         var audio_player = AudioStreamPlayer3D.new()
         add_child(audio_player)
