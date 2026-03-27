@@ -7,7 +7,7 @@
 
 - [Soundwave Music Manager](#soundwave-music-manager)
 - [Soundwave SFX Manager](#soundwave-sfx-manager)
-- [Credits](#credits)
+- [Demo](#demo)
 
 ---
 
@@ -36,8 +36,6 @@ The Soundwave SFX Manager is an helpful godot plugin that adds two new Nodes: `S
 3. Configure the nodes `sfx` property and add your sfx with fitting keys.
 4. Play sounds by calling the `play_sfx("<your sfx key>")` on the `SoundwaveSfx` node.
 
+## Demo
 
-## Credits
-
-- Thanks to [kenny.nl](https://kenney.nl/assets) for the 2d platformer and ui assets.
-- 
+The demo for this plugin is can be found [here](https://github.com/Orosemo/soundwave-demo). Check the readme for more informations
