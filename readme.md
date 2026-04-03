@@ -3,6 +3,9 @@
 
 ![hackatime](https://hackatime.hackclub.com/api/v1/badge/U0A5GJ8JP5F/Orosemo/sound-wave)
 
+[Demo](https://github.com/Orosemo/soundwave-demo)
+[SFX](https://github.com/Orosemo/soundwave-sfx)
+
 ## Table of content
 
 - [Soundwave Music Manager](#soundwave-music-manager)
