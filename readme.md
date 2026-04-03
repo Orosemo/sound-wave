@@ -6,7 +6,6 @@
 ## Table of content
 
 - [Soundwave Music Manager](#soundwave-music-manager)
-- [Soundwave SFX Manager](#soundwave-sfx-manager)
 - [Demo](#demo)
 
 ---
